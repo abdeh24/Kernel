@@ -1,0 +1,8 @@
+displayName: "Kernel the Mindustry Mod"
+name: "the-kernel"
+author: "abdeh24"
+main: "main"
+description: "a Mindustry Mod"
+version: 0.1
+minGameVersion: 154
+java: true
